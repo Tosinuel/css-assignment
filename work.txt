@@ -1,0 +1,22 @@
+Create an "index.html" file
+2. Create a heading with the content "Welcome to CSS", using inline styling change the color to red
+3. Create a Folder Called "all_css", store all your external css inside it.
+4. Create a Paragraph with 200+ Words, give it a background color of black and a color of white using External CSS
+5. Create 3 Files, "services.html", "contact.html" and "about.html", inside a Folder called "pages"
+6. In your index file create an unordered list that houses the links to your 3 files
+7. In your services.html file, give the body a background color of "grey" using Internal CSS, create a h1 of "This is Our Services Page"
+  and create a h3 with the content of "Our Services", then an ordered list with 5 below listed items and give them a color of "cyan":
+  Python Training
+  Linux Training
+  Full Stack Training
+  DevOps Training
+  Splunk Training
+
+8. In your contact.html file, give the body a background color of "blue" using a class attribute in your External CSS, create a h1 of "This is Our Contact Page" with a color of red
+  and integrated the form from the previous assignment.
+9. In your about.html file, give the body a background color of "orange" using an id attribute in your Internal CSS, create a h1 of "This is Our About Page"
+  and create a paragragh of 100 words i.e tell us about CapacityBay
+10. create a github repository "css assignment" and upload your work to the github repo, then make it live and submit the live link and a link to your repo
+
+I had to make this easy, occupied at the moment
+GoodLuck!!
